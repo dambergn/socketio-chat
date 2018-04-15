@@ -1,0 +1,13 @@
+html, body {
+  border-bottom: solid 1px black;
+}
+
+#chat {
+  height: 1000px;
+  width: 500px;
+  border-bottom: solid 1px black;
+}
+
+#chat-window {
+  width: 500px;
+}
